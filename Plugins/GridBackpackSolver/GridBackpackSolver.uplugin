@@ -1,0 +1,23 @@
+﻿{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "GridBackpackSolver",
+	"Description": "A Grid-Based Backpack Plugin for Unreal Engine 5. Supports AI & player backpack management.",
+	"Category": "Other",
+	"CreatedBy": "TokiraNeo",
+	"CreatedByURL": "https://github.com/TokiraNeo/GridBackpackSolver",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "GridBackpackSolver",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
